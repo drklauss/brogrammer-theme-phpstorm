@@ -1,17 +1,19 @@
 <scheme name="brogrammer" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-07-02T11:16:02</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-07-02T11:16:08</property>
+    <property name="created">2019-10-17T09:42:22</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2019.2.3.0.0</property>
+    <property name="modified">2019-10-17T09:42:33</property>
     <property name="originalScheme">brogrammer</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="414651" />
+    <option name="ANNOTATIONS_COLOR" value="4b4b4b" />
     <option name="CARET_COLOR" value="ffffff" />
     <option name="CARET_ROW_COLOR" value="2b2b2b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -29,7 +31,7 @@
     <option name="INDENT_GUIDE" value="414651" />
     <option name="LINE_NUMBERS_COLOR" value="fafafa" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
-    <option name="MODIFIED_LINES_COLOR" value="2b2b2b" />
+    <option name="MODIFIED_LINES_COLOR" value="3b4764" />
     <option name="NOTIFICATION_BACKGROUND" value="ea5744" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
@@ -287,7 +289,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="d74737" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -583,8 +585,16 @@
         <option name="FOREGROUND" value="3ad086" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -939,12 +949,6 @@
         <option name="FOREGROUND" value="e67e24" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME">
-      <value>
-        <option name="FOREGROUND" value="e67e24" />
-      </value>
-    </option>
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="REGEXP.BAD_CHARACTER">
       <value />
     </option>
@@ -1155,7 +1159,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6b6b6b" />
+        <option name="FOREGROUND" value="33d27c" />
         <option name="ERROR_STRIPE_COLOR" value="bf616a" />
       </value>
     </option>
@@ -1179,7 +1183,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="505050" />
+        <option name="BACKGROUND" value="3c3f41" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
